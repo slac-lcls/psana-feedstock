@@ -1,3 +1,3 @@
 cd psana
-"{{ PYTHON }} -m pip install . -vv"
+$PYTHON setup.py install --instdir=$PREFIX --single-version-externally-managed --record=record.txt --version=$PKG_VERSION
 
