@@ -33,7 +33,6 @@ requirements:
     - xtcdata
     - psalg
     - requests
-    - mpi4py
     - mongodb
     - pymongo
     - amityping
