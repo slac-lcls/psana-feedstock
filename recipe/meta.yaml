@@ -39,6 +39,7 @@ requirements:
     - psmon
     - krtc
     - ipykernel 
+    - prometheus_client
 
 about:
   home: https://github.com/slac-lcls/lcls2
