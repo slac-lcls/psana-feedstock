@@ -40,6 +40,10 @@ requirements:
     - krtc
     - ipykernel 
     - prometheus_client
+    - amityping
+    - bson
+    - libpressio
+    - kafka-python
 
 about:
   home: https://github.com/slac-lcls/lcls2
